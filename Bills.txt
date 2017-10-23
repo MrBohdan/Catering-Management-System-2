@@ -1,0 +1,21 @@
+Order ID: 472
+Type of menu: BBQ
+Type of services: -Chairs---
+Amount of Clients: 12
+Discount: 5% = RM: 36.0
+Total price: RM948.0
+-----
+Order ID: 473
+Type of menu: Afternoon Teas
+Type of services: -Chairs---
+Amount of Clients: 34
+Discount: 10% = RM: 52.7
+Total price: RM774.3
+-----
+Oder ID: 2527
+Type of menu: Afternoon Teas
+Type of services: Tent----
+Amount of Clients: 25
+Discount: 5% = RM: 19.375
+Total price: RM748.75
+-----
